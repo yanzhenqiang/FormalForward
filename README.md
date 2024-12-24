@@ -10,7 +10,8 @@
 - Write a qucik sort in latte
 - Proof QuickSort and BobbleSort equal
 - Convert text to latte
-- Convert LeanEucilid to latte https://github.com/loganrjmurphy/LeanEuclid
+- Convert Geometry from metamath or others?
+- 对于metamath中无法定义无限个符号?
 - Convert GSM8k/MATH/AIMO to latte
 - Compare train w/o prompt "think in latte"
 - Inference in MCTS.
