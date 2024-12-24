@@ -3,13 +3,14 @@
 - Add latte repo to workspace
 - Try gemini(2M context) to help write latte
 - One thm one item for train, make common thm expicit?
+- After train, give some easy math to proof?
 - Add Digit type and prop like mul/add
 - Add how to solve equation in latte
 - Develop a inferce/result like proof
 - Write a qucik sort in latte
-- Proof QuickSort and BobbleSort equal.
+- Proof QuickSort and BobbleSort equal
 - Convert text to latte
-- Convert LeanEucilid to latte
+- Convert LeanEucilid to latte https://github.com/loganrjmurphy/LeanEuclid
 - Convert GSM8k/MATH/AIMO to latte
 - Compare train w/o prompt "think in latte"
 - Inference in MCTS.
