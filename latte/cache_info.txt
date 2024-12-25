@@ -1,0 +1,4 @@
+Cache URI: cachedContents/9lk72s3w69bh
+Display Name: clojure_codebase
+Creation Time: 2024-12-24 10:54:46.024815+00:00
+Expiration Time: 2024-12-24 11:24:45.342171+00:00

@@ -1,20 +1,18 @@
 # FormalForward
 
-- Add latte repo to workspace
-- Try gemini(2M context) to help write latte
 - One thm one item for train, make common thm expicit?
 - After train, give some easy math to proof?
+- Inference in MCTS.
+
 - Add Digit type and prop like mul/add
+- Add Real/limit logic
 - Add how to solve equation in latte
 - Develop a inferce/result like proof
 - Write a qucik sort in latte
 - Proof QuickSort and BobbleSort equal
 - Convert text to latte
-- Convert Geometry from metamath or others?
-- 对于metamath中无法定义无限个符号?
 - Convert GSM8k/MATH/AIMO to latte
 - Compare train w/o prompt "think in latte"
-- Inference in MCTS.
 - How to add inductive type and pattern match
 
 ## Set Up Dev Env
